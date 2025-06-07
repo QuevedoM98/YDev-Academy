@@ -119,3 +119,4 @@ Algunos frameworks utilizados para realizar pruebas automáticas son:
 * **PHP**: PHPUnit
 * **JavaScript**: Mocha
 
+![Diagrama del framework](assets/FRAMEWORK.PNG)
