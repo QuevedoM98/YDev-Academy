@@ -120,3 +120,36 @@ Algunos frameworks utilizados para realizar pruebas automáticas son:
 * **JavaScript**: Mocha
 
 ![Diagrama del framework](assets/FRAMEWORK.PNG)
+
+
+### 4.1. Automatización de pruebas
+
+#### Anotaciones
+
+En las clases de test creamos métodos que implementen los tests. Para ello hacemos uso de las siguientes anotaciones:
+
+* `@Test`: Indica que el método es un test que se debe ejecutar.
+* `@DisplayName("nombre")`: Personaliza el nombre con el que aparecerá el test en los resultados.
+* `@Disabled`: Los métodos marcados con esta anotación no serán ejecutados.
+* `@BeforeAll`: el método es invocado antes de iniciar todos los tests. Sólo puede haber un método con esta anotación.
+* `@AfterAll`: el método es invocado después de finalizar todos los tests. Sólo puede haber un método con esta anotación.
+* `@BeforeEach`: Se ejecuta antes de cada test.
+* `@AfterEach`: Se ejecuta después de cada test.
+
+![Resultados de los Test de Calculadora](assets/TestResult.png)
+
+#### Generar documentación
+
+El IDE nos proporciona, al ejecutar los tests, la información de si estos se han llevado a cabo con éxito o no. Sin embargo, también podemos generar documentación en HTML o XML para compartir con otra persona.
+
+Para ello hacemos clic en el botón "Export test results" seleccionamos el formato en el que queremos obtener la información.
+
+#### Cobertura del código
+
+La cobertura del código es una medida que indica qué porcentaje de código está cubierto por algún test. Un valor del 100% indicaría que todo el código es ejecutado alguna vez durante las pruebas. Es una de las métricas que se puede tener en cuenta a la hora de medir la **calidad** del software.
+
+En IntelliJ, a la hora de ejecutar los test, podemos elegir hacerlo con cobertura. Ello hará que se nos muestre en un panel la cobertura de las clases, los métodos y las líneas de los elementos de nuestro proyecto. Además, nos resaltará en el IDE en color rojo o verde las líneas según no tengan o tengan cobertura (es decir, se ejecuten en algún test).
+
+Respecto a la cobertura de código, también se nos permite generar un informe en HTML en el que podemos comprobar cuál es la cobertura del código de nuestra aplicación
+
+Hemos realizado varios ejemplos de ChatGPT junto con el de la calculadora. [Ejemplos ChatGPT](https://chatgpt.com/share/67ecf921-2640-8003-b098-2170ab453d5d)
