@@ -34,8 +34,7 @@ index.html **Single file template (HTML, CSS, JS inline)**
 ---
 
 ## 📸 Preview
-./assets/preview.png
-
+![YDev Academy Screenshot](assets/preview.png)
 ---
 
 ## 📜 Credits
