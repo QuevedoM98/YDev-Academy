@@ -34,7 +34,7 @@ index.html **Single file template (HTML, CSS, JS inline)**
 ---
 
 ## 📸 Preview
-(./assets/preview.png)
+./assets/preview.png
 
 ---
 
