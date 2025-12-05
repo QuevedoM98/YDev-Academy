@@ -41,7 +41,7 @@ index.html **Single file template (HTML, CSS, JS inline)**
 ## 📜 Credits
 - **Cursor AI** → Assisted with code generation  
 - **Canva AI** → Provided design inspiration and assets  
-- **Me (Joun)** → Customized, refined, and assembled the final template  
+- **Me :D!!** → Customized, refined, and assembled the final template  
 
 ---
 
